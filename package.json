@@ -1,0 +1,23 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name":"haidaisi",
+    "email": "997037734@qq.com",
+    "url": "https://www.poby.top"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cowsay": "^1.5.0",
+    "inquirer": "^8.1.0",
+    "minimist": "^1.2.5",
+    "progress": "^2.0.3"
+  }
+}
